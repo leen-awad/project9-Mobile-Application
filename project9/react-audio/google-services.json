@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782614468050",
+    "project_id": "abc-worldv2",
+    "storage_bucket": "abc-worldv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782614468050:android:a2a73208454056b6b0a40b",
+        "android_client_info": {
+          "package_name": "com.ABCWorld.abcGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782614468050-rjik3jfm6nqh3vn2me32ldgcdhntbib7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2DftGEYVun8udfW3J19FwWWkbzmC59sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782614468050-rjik3jfm6nqh3vn2me32ldgcdhntbib7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
